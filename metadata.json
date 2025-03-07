@@ -1,0 +1,12 @@
+{
+  "name": "oh-plg-gotify",
+  "version": "1.0.0",
+  "intents": [
+    "devices",
+    "vault"
+  ],
+  "author": "Marc Stirner <marc.stirner@open-haus.io>",
+  "website": "",
+  "description": "",
+  "uuid": "65e83c09-82c5-49ac-822d-ffc164b9cea2"
+}
