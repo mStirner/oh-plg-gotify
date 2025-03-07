@@ -19,7 +19,6 @@ Add plugin item via HTTP API:<br />
    "version": "1.0.0",
    "intents":[
       "devices",
-      "store",
       "vault"
    ],
    "uuid": "65e83c09-82c5-49ac-822d-ffc164b9cea2"
